@@ -1,4 +1,4 @@
-# lone-ranger
+# Lone Ranger
 Lone-ranger is a 2D gambling adventure game purely luck based
 
 ## About The Game
